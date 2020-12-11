@@ -1,16 +1,3 @@
-/**
- *  gobal全局样式
- * ----------------------
- *  作者：叼怎么写！
- *  时间：2014-03-21
- *  准则：NEC
- *  联系：wechat--shoe11414255
- *  创意源于生活，代码如诗从你我开始
- *  OOCSS虽好，需培养，需规范，需慢慢品尝
- *********************************************************************************************/
-@charset "utf-8";
-/* =reset 网页样式重置
-------------------------------------------------------------------------------------------------------------------------------*/
 html { font-size:1em;-webkit-tap-highlight-color:rgba(0,0,0,0); -webkit-tap-highlight:rgba(0,0,0,0);-webkit-text-size-adjust:none;overflow:-moz-scrollbars-vertical;/*强制firefox出现滑动条*/}
 body { font-size:0.75em;}
 label { cursor:pointer;}
